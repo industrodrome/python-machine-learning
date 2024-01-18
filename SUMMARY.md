@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Supervised Learning](README.md)
+  * [Regression](supervised-learning/regression/README.md)
+    * [Linear Regression](supervised-learning/regression/linear-regression.md)
+    * [Polynomial Regression](supervised-learning/regression/polynomial-regression.md)
+    * [Ridge Regression](supervised-learning/regression/ridge-regression.md)
+    * [Lasso Regression](supervised-learning/regression/lasso-regression.md)
+    * [Decision Tree](supervised-learning/regression/decision-tree.md)
+    * [Random Forest](supervised-learning/regression/random-forest.md)
+    * [K-Nearest Neighbors](supervised-learning/regression/k-nearest-neighbors.md)
+    * [Support Vector Machines](supervised-learning/regression/support-vector-machines.md)
+    * [Gaussian](supervised-learning/regression/gaussian.md)
+    * [Ensemble Techniques](supervised-learning/regression/ensemble-techniques.md)
+  * [Classification](supervised-learning/classification.md)
