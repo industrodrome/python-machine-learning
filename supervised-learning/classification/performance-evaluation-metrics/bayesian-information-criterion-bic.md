@@ -1,0 +1,2 @@
+# Bayesian Information Criterion (BIC)
+
